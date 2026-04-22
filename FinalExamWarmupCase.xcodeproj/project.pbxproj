@@ -10,9 +10,33 @@
 		2DBC15342F9934B20080B265 /* FinalExamWarmupCase.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FinalExamWarmupCase.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		2DBC15762F99709E0080B265 /* Exceptions for "FinalExamWarmupCase" folder in "FinalExamWarmupCase" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				README.md,
+			);
+			target = 2DBC15332F9934B20080B265 /* FinalExamWarmupCase */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
+/* Begin PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+		2DBC15772F99709E0080B265 /* Exceptions for "FinalExamWarmupCase" folder in "Compile Sources" phase from "FinalExamWarmupCase" target */ = {
+			isa = PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet;
+			buildPhase = 2DBC15302F9934B20080B265 /* Sources */;
+			membershipExceptions = (
+				README.md,
+			);
+		};
+/* End PBXFileSystemSynchronizedGroupBuildPhaseMembershipExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		2DBC15362F9934B20080B265 /* FinalExamWarmupCase */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				2DBC15762F99709E0080B265 /* Exceptions for "FinalExamWarmupCase" folder in "FinalExamWarmupCase" target */,
+				2DBC15772F99709E0080B265 /* Exceptions for "FinalExamWarmupCase" folder in "Compile Sources" phase from "FinalExamWarmupCase" target */,
+			);
 			path = FinalExamWarmupCase;
 			sourceTree = "<group>";
 		};
